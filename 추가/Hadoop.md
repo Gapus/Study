@@ -1,0 +1,1 @@
+> 빅데이터 솔루션 하둡 <http://blog.naver.com/PostView.nhn?blogId=acornedu&logNo=220957220179&parentCategoryNo=&categoryNo=1&viewDate=&isShowPopularPosts=true&from=search>
