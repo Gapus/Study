@@ -107,9 +107,9 @@ Operator|Description|EX
 --|--|--
 =|같으면 | WHERE column = 1
 <>, !=| 같지 않으면 | WHERE column != 1
-/>| 크면 | WHERE column > 1
+\> | 크면 | WHERE column > 1
 <| 작으면 | WHERE column < 1
-/>=| 크거나 작으면 | WHERE column >= 1
+\> =| 크거나 작으면 | WHERE column >= 1
 <=| 작거나 같으면 | WHERE column <= 1
 BETWEEN | ~ 사이 ~, NOT 절사용가능 | WHERE column (NOT) BETWEEN 10 AND 20
 LIKE | 패턴 검색, NOT 절사용가능 | WHERE column LIKE 'a%'; WHERE column LIKE '%or%';
